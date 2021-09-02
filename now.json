@@ -1,5 +1,8 @@
 {
-  "name": "reactreserve",
-  "alias": "<insert-your-alias>.now.sh",
-  "version": 1
+  "name":`${process.env.NOW_NAME
+  }`,
+  "alias":`${process.env.NOW_ALIAS
+  }`,
+  "version":`${process.env.NOW_VERSION
+  }`,
 }
