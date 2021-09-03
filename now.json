@@ -6,11 +6,10 @@
   "version":`${process.env.NOW_VERSION
   }`,
 }
-// mongoimport --uri mongodb+srv: //JeromeAmos:9wRXwgaGSZIbza6o@cluster0.sfoht.mongodb.net/reacttest 
-// --collection products --type json --file ./public/static/products.json
-// 
-// import code into monngo
-mongoimport --uri mongodb+srv: //JeromeAmos:9wRXwgaGSZIbza6o@cluster0.sfoht.mongodb.net/REACTRESERVE --collection PRODUCTS --type json --file ./public/static/products.json
-// 
-// connection to db on mongodb
-// mongodb+srv: //JeromeAmos:9wRXwgaGSZIbza6o@cluster0.sfoht.mongodb.net/REACTRESERVE?retryWrites=true&w=majority
+
+
+
+
+
+
+
