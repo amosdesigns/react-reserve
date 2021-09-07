@@ -1,15 +1,8 @@
 {
-  "name":`${process.env.NOW_NAME
+  "name":`{process.env.NOW_NAME
   }`,
   "alias":`${process.env.NOW_ALIAS
   }`,
   "version":`${process.env.NOW_VERSION
   }`,
 }
-
-
-
-
-
-
-
